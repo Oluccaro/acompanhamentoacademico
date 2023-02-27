@@ -1,7 +1,7 @@
 <?php 
   $host = "localhost";
-  $user = "lucasfn";
-  $pass = "admin";
+  $user = "";
+  $pass = "";
   $dbname = "Curso";
   $table_users = "User";
 ?>
